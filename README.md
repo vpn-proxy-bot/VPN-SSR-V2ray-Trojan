@@ -17,21 +17,21 @@
 支持 匿名邮箱/USDT 不意味着不被追踪，机场主仍然可以根据 IP 特性行为关联到你。
 | 名称                                         | 均月费      | 备注                     |
 |--------------------------------------------|----------|------------------------|
-| [dawangidc](https://dw.p2gg.com)           | 100G/13r | 购买时注册, 自定义邮箱, 不限设备     |
-| [一枝红杏](https://404ms.com/hongxingwangzhi)  | 100G/9r  | 限制5设备, 自定义邮箱           |
-| [我们所向往的](https://404ms.com/wmsxwd)         | 160G/15r | 邀请注册, 限3设备, 订阅记录       |
-| [魔戒](https://404ms.com/mojie)              | 210G/30r | 不限设备, 按量计费             |
-| [猫熊网络](https://404ms.com/maoxiong)         | 200G/25r | 试用, 限制4设备              |
-| [Coffee Cloud ](https://aicoffee.app)      | 100G/16r | 不限设备(禁共享)              |
-| [饿饭CC云](https://404ms.com/efanapi)         | 200G/47r | 限制3设备                  |
-| [快冲云](https://404ms.com/kuaichongyun)      | 266G/27r | 不限设备, 按量计费             |
-| [阿拉丁机场](https://404ms.com/alading)         | 200G/42r | 限制10设备                 |
-| [歪兔YToo](https://404ms.com/y-too)          | 200G/36r | 购买时注册, 限个人, 倍率流量, 托管配置 |
-| [LinkCube](https://404ms.com/linkcube)     | 100G/15r | 购买时注册, 限个人             |
-| [kitty network](https://404ms.com/kittyfo) | 512G/50r | 不限设备                   |
-| [红莓网络](https://cmynetwork.com)             | 202G/20r | 限制2设备(禁合租)             |
-| [ConySS](https://conyss.uk)                | 100G/30r |                        |
-| [VPN07](https://vpn07.com)                 | 250G/30r | 不限设备                   |
+| [dawangidc](https://404ms.com/dawangidc)    | 100G/13r | 购买时注册, 自定义邮箱, 不限设备     |
+| [一枝红杏](https://404ms.com/hongxingwangzhi)   | 100G/9r  | 限制5设备, 自定义邮箱           |
+| [我们所向往的](https://404ms.com/wmsxwd)          | 160G/15r | 邀请注册, 限3设备, 订阅记录       |
+| [魔戒](https://404ms.com/mojie)               | 210G/30r | 不限设备, 按量计费             |
+| [猫熊网络](https://404ms.com/maoxiong)          | 200G/25r | 试用, 限制4设备              |
+| [Coffee Cloud ](https://404ms.com/aicoffee) | 100G/16r | 不限设备(禁共享)              |
+| [饿饭CC云](https://404ms.com/efanapi)          | 200G/47r | 限制3设备                  |
+| [快冲云](https://404ms.com/kuaichongyun)       | 266G/27r | 不限设备, 按量计费             |
+| [阿拉丁机场](https://404ms.com/alading)          | 200G/42r | 限制10设备                 |
+| [歪兔YToo](https://404ms.com/y-too)           | 200G/36r | 购买时注册, 限个人, 倍率流量, 托管配置 |
+| [LinkCube](https://404ms.com/linkcube)      | 100G/15r | 购买时注册, 限个人             |
+| [kitty network](https://404ms.com/kittyfo)  | 512G/50r | 不限设备                   |
+| [红莓网络](https://cmynetwork.com)              | 202G/20r | 限制2设备(禁合租)             |
+| [ConySS](https://conyss.uk)                 | 100G/30r |                        |
+| [VPN07](https://vpn07.com)                  | 250G/30r | 不限设备                   |
 
 ## 2. 匿名邮箱
 
@@ -71,6 +71,7 @@
 | [奶油CreamData ](https://naiyovpn.com)                | 200G/29r   | 自定义邮箱, 限制2设备                |
 | [天航](https://tianhang.org)                          | 140G/14r   | 支持 protonmail, 限个人          |
 | [AMY 机场 ](https://amytelecom.info)                  | 150 GB/32r | 支持 proton, 限个人              |
+| [量子航空](https://quantum-air.xyz)                     | 100G/25r   | 最简陋的机场, 无需注册, 纯按量计费         |
 
 ## 3. 支持U
 
@@ -101,7 +102,7 @@
 | [COCODUCK 机场 ](https://404ms.com/cocoduck) | 100G/17r  | 试用               |
 | [YKKCloud ](https://404ms.com/ykkcloud)    | 150G/14r  | 限个人              |
 | [夜煞云](https://404ms.com/yeshayun)          | 138G/10r  | 限个人              |
-| [X-Air](https://x-air.pubIic.com)          | 150G/31r  | 限个人, 配置托管        |
+| [X-Air](https://404ms.com/x-air)           | 150G/31r  | 限个人, 配置托管        |
 | [SpeedCAT 闪电猫](https://404ms.com/speedcat) | 100GB/20r | 定制客户端            |
 | [taishan](https://404ms.com/taishan)       | 128G/10r  | 可按量              |
 | [Nyxen 机场 ](https://404ms.com/nyxen)       | 100G/15r  | 禁共享              |
@@ -121,7 +122,7 @@
 | [ikuuu](https://404ms.com/ikuuu)              | 300G/12r  | 试用, 限制5设备                |
 | [避风港 BFG ](https://404ms.com/bfgbfg)          | 126G/21r  | 试用, 限制2设备, 定制客户端         |
 | [奈思云](https://404ms.com/naisii)               | 120G/25r  | 限制5设备, esim              |
-| [CitrusLab](https://cotota.app)               | 160G/20r  | 限制3设备, 定制客户端, 免流混淆, Emby |
+| [CitrusLab](https://404ms.com/cotota)         | 160G/20r  | 限制3设备, 定制客户端, 免流混淆, Emby |
 | [飞毯加速](https://404ms.com/tanzpro)             | 300G/23r  | 试用, 限制2IP, 订阅记录          |
 | [tagss](https://404ms.com/tagss)              | 250GB/61r | 限制10设备, IP白名单            |
 | [奶昔](https://nexitallysafe.com)               | 200G/63r  | 限制2设备                    |
