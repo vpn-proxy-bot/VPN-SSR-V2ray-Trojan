@@ -10,7 +10,7 @@
 
 建议：从支持试用的开始，再逐步测试其它的。
 
-同步地址：[404ms.com/vpn](https://404ms.com/vpn)
+同步地址：[zutizi.com](https://zutizi.com)
 
 ## 1. 匿名邮箱+支持U
 
