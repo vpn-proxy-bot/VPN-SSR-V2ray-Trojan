@@ -107,33 +107,33 @@
 
 | 名称                                            | 均月费       | 备注                       |
 |-----------------------------------------------|-----------|--------------------------|
-| [一分机场](https://zutizi.com/yfjc)                | 100G/2r   | 限制10设备, 可按量              |
-| [赔钱机场](https://zutizi.com/pqjc)                | 100G/1.5r | 限制10设备, 可按量              |
-| [可可云](https://zutizi.com/cocoyun)              | 100G/20r  | 限制2设备                    |
-| [WUXX](https://zutizi.com/wuxx)                | 150G/30r  | 限制3设备, 倍率                |
-| [奇异云NCloud](https://zutizi.com/ncloud)         | 1024G/10r | 限制3IP                    |
-| [Viking Links ](https://zutizi.com/vikinglink) | 500G/80r  | 限制5设备, 可按量               |
-| [ikuuu](https://zutizi.com/ikuuu)              | 300G/12r  | 试用, 限制5设备                |
-| [避风港 BFG ](https://zutizi.com/bfgbfg)          | 126G/21r  | 试用, 限制2设备, 定制客户端         |
-| [奈思云](https://zutizi.com/naisii)               | 120G/25r  | 限制5设备, esim              |
-| [CitrusLab](https://zutizi.com/cotota)         | 160G/20r  | 限制3设备, 定制客户端, 免流混淆, Emby |
-| [飞毯加速](https://zutizi.com/tanzpro)             | 300G/23r  | 试用, 限制2IP, 订阅记录          |
-| [tagss](https://zutizi.com/tagss)              | 250GB/61r | 限制10设备, IP白名单            |
-| [奶昔](https://nexitallysafe.com)               | 200G/63r  | 限制2设备                    |
-| [immtele](https://zutizi.com/immtele)          | 500G/72r  | 限制2IP, 可按量, 季付起步         |
-| [ByWave](https://zutizi.com/bywave)            | 150G/30r  | 限制5设备                    |
-| [MDSS](https://zutizi.com/mdss)                | 110G/20r  | 限制5设备                    |
-| [火星联盟](https://zutizi.com/hxlm)                | 150G/18r  | 限制10设备                   |
-| [闪电机场](https://zutizi.com/shandianpro)         | 320G/16r  | 限制3设备                    |
-| [云海互联](https://zutizi.com/oceancloud)          | 500G/30r  | 限制5设备                    |
-| [泡芙云](https://zutizi.com/paofu)                | 300G/32r  | 限制3IP                    |
-| [7速云](https://zutizi.com/7sucloud)             | 200G/20r  | 限制5设备(限个人)               |
-| [云翼网络](https://zutizi.com/yywl)                | 108G/30r  | 限制4设备(限个人)               |
-| [Fastnode ](https://zutizi.com/fastnode)       | 100G/14r  | 限制5设备                    |
-| [悠兔机场](https://zutizi.com/youtujc)             | 150G/35r  | 限制5设备                    |
-| [贝贝云](https://zutizi.com/beibei)               | 200G/33r  | 限5设备(限个人), 支持UDP(非游戏)    |
-| [boostqz](https://zutizi.com/boostqz)          | 200G/43r  | 限制5设备                    |
-| [socloud](https://zutizi.com/socloud)          | 100G/30r  | 限制4设备, 订阅记录              |
+| [一分机场](https://zutizi.com/yfjc)                | 2r/100G    | 限制10设备, 可按量                   |
+| [赔钱机场](https://zutizi.com/pqjc)                | 1.5r/100G  | 限制10设备, 可按量                   |
+| [WUXX](https://zutizi.com/wuxx)                | 30r/150G   | 限制3设备, 倍率                     |
+| [immtele](https://zutizi.com/immtele)          | 43r/500G   | 限制2IP, 可按量, 季付起步              |
+| [ByWave](https://zutizi.com/bywave)            | 30r/150G   | 限制5设备, 可定制客户端                 |
+| [tagss](https://zutizi.com/tagss)              | 114r/500GB | 限制10设备, IP白名单, 可定制客户端         |
+| [奈思云](https://zutizi.com/naisii)               | 25r/120G   | 限制5设备, esim                   |
+| [CitrusLab](https://zutizi.com/cotota)         | 12r/80G    | 限制3设备, 定制客户端, 免流混淆, Emby      |
+| [云海互联](https://zutizi.com/oceancloud)          | 20r/200G   | 限制3-5设备, Emby, 可按量            |
+| [7速云](https://zutizi.com/7sucloud)             | 20r/200G   | 限制5设备(限个人), 可按量               |
+| [云翼网络](https://zutizi.com/yywl)                | 30r/108G   | 限制4设备(限个人), 专线?, 可定制客户端       |
+| [奇异云NCloud](https://zutizi.com/ncloud)         | 10r/1024G  | 限制3IP                         |
+| [可可云](https://zutizi.com/cocoyun)              | 20r/100G   | 限制2设备, 定制客户端                  |
+| [泡芙云](https://zutizi.com/paofu)                | 16r/100G   | 限制3IP                         |
+| [Viking Links ](https://zutizi.com/vikinglink) | 80r/500G   | 限制5设备, 定制客户端, 可按量             |
+| [MDSS](https://zutizi.com/mdss)                | 20r/110G   | 限制5设备                         |
+| [火星联盟](https://zutizi.com/hxlm)                | 18r/150G   | 限制10设备, 可定制客户端                |
+| [闪电机场](https://zutizi.com/shandianpro)         | 16r/320G   | 限制3设备                         |
+| [悠兔机场](https://zutizi.com/youtujc)             | 35r/150G   | 限制5设备, 倍率, 专线? 季付起            |
+| [贝贝云](https://zutizi.com/beibei)               | 33r/200G   | 限5设备(限个人), 支持UDP(非游戏), 可定制客户端 |
+| [boostqz](https://zutizi.com/boostqz)          | 43r/200G   | 限制5设备, 专线, 可定制客户端             |
+| [ikuuu](https://zutizi.com/ikuuu)              | 12r/300G   | 试用, 限制5设备, 使用记录               |
+| [避风港 BFG ](https://zutizi.com/bfgbfg)          | 18r/108G   | 试用, 限制2设备, 定制客户端              |
+| [飞毯加速](https://zutizi.com/tanzpro)             | 23r/300G   | 试用, 限制2IP, 订阅记录               |
+| [Fastnode ](https://zutizi.com/fastnode)       | 14r/100G   | 限制5设备, 半年起付                   |
+| [奶昔](https://nexitallysafe.com)                | 63r/200G   | 限制2设备                         |
+| [socloud](https://zutizi.com/socloud)          | 30r/100G   | 限制4设备, 订阅记录                   |
 
 ## 6. 未说明
 
