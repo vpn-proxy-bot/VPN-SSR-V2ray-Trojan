@@ -22,7 +22,7 @@
 | [忍者云(限老用户)](https://zutizi.com/renzhe)      | 39 | 100G 自定义邮箱, 限制5设备, 家宽            |
 | [饿饭CC云](https://zutizi.com/efanapi)         | 30 | 100G 限制3设备, 定制客户端, 季付起, 支持U, 可按量 |
 | [猫熊网络](https://zutizi.com/maoxiong)         | 25 | 200G 限制4设备, 订阅记录, 原生, 家宽         |
-| [xlinkworld](https://zutizi.com/xlinkworld) | 20 | 100G 邀请码且购买注册, 限个人3设备/团队         |
+| [xlinkworld](https://zutizi.com/xlinkworld) | 20 | 100G 仅限邀请且购买注册, 限个人3设备/团队         |
 | [歪兔YToo](https://zutizi.com/y-too)          | 36 | 200G 购买时注册, 限个人/团队, 支持U          |
 | [xipCloud](https://zutizi.com/xipcloud)     | 33 | 100G 购买时注册, 不限设备, 仅年付            |
 | [MESL Cloud](https://zutizi.com/meslcloud)  | 24 | 100G 限制5设备/团队                    |
@@ -36,13 +36,13 @@
 | [Bitz Net ](https://zutizi.com/bitznet) | 23  | 80G 试用, 不限设备, 广东/上海专线, 限个人       |
 | [immtele](https://zutizi.com/immtele)   | 43  | 500G 限制2IP, 季付起步, 可按量            |
 | [tagss](https://zutizi.com/tagss)       | 114 | 500GB 限制10设备/团队, 可按量, 可定制客户端, 家宽 |
-| [CTC 金龙鱼](https://zutizi.com/jinlongyu) | 60  | 100G 邀请注册                        |
+| [CTC 金龙鱼](https://zutizi.com/jinlongyu) | 60  | 100G  仅限邀请                        |
 | [云翼网络](https://zutizi.com/yywl)         | 30  | 108G 限制4设备(限个人), 可定制客户端          |
 | [Gatern 班机 ](https://zutizi.com/gatern) | 24  | 120G 不限设备, 可定制客户端, 支持U           |
 | [白月光 BYG](https://zutizi.com/bygcloud)  | 33  | 100G 限制5设备, 季付起                  |
 | [悠兔机场](https://zutizi.com/youtujc)      | 35  | 150G 限制5设备, 倍率, 可定制客户端, 季付起      |
 | [boostqz](https://zutizi.com/boostqz)   | 43  | 200G 限制5设备, 季付起, 可定制客户端          |
-| [TomatoCloud](https://tomatocloud.cc)   | 35  | 98G 邀请注册, 高倍率游戏, 支持U             |
+| [TomatoCloud](https://tomatocloud.cc)   | 35  | 98G  仅限邀请, 高倍率游戏, 支持U             |
 
 ## 3. 匿名邮箱+支持U
 
@@ -58,7 +58,7 @@
 | [LinkCube](https://zutizi.com/linkcube)     | 15 | 100G 购买时注册, 限个人                |
 | [VPN07](https://zutizi.com/vpn07)           | 10 | 60G 不限设备, 专用客户端                |
 | [kitty network](https://zutizi.com/kittyfo) | 2  | 128G 不限设备                      |
-| [我们所向往的](https://zutizi.com/wmsxwd)         | 15 | 160G 邀请注册, 限3设备, 订阅记录          |
+| [我们所向往的](https://zutizi.com/wmsxwd)         | 15 | 160G  仅限邀请, 限3设备, 订阅记录          |
 
 ## 4. 匿名邮箱
 
@@ -80,7 +80,7 @@
 | [雨燕云](https://zutizi.com/yuyan)              | 14 | 158G 支持 proton, 阅后即焚, 限个人       |
 | [AgentNEO](https://zutizi.com/agentneo)      | 33 | 150G 自定义邮箱, 限个人, 支持UDP, 自定规则    |
 | [番茄](https://zutizi.com/fanqie)              | 14 | 150G 自定义邮箱, 限制4设备               |
-| [Foo&Friends.](https://cjmy.xyz)             | 10 | 60G 邀请注册, 限时订阅                  |
+| [Foo&Friends.](https://cjmy.xyz)             | 10 | 60G  仅限邀请, 限时订阅                  |
 
 ## 5. 支持U
 
@@ -91,14 +91,14 @@
 | [Web3VPN ](https://zutizi.com/web3vpn)          | 25 | 200G 限制3IP, 定制客户端               |
 | [大机场 Big Airport](https://zutizi.com/dajichang) | 5  | 1024G 不限设备                      |
 | [EasyInternet](https://zutizi.com/easyinternet) | 48 | 300G 不限设备, 订阅记录, 含家宽, 可按量, 独立IP |
-| [鹿语云](https://luyuyun.pro)                      | 19 | 100G 邀请注册, 限制本人                 |
+| [鹿语云](https://luyuyun.pro)                      | 19 | 100G  仅限邀请, 限制本人                 |
 
 ## 6. 不限设备/未说明
 
 | 名称                                         | 均月费       | 备注               |
 |--------------------------------------------|---:|:------------------------|
 | [COCODUCK 机场 ](https://zutizi.com/cocoduck) | 17 | 100G 试用         |
-| [跑路云](https://zutizi.com/paoluz)            | 20 | 150G 邀请注册, 试用   |
+| [跑路云](https://zutizi.com/paoluz)            | 20 | 150G  仅限邀请, 试用   |
 | [YKKCloud ](https://zutizi.com/ykkcloud)    | 14 | 150G 限个人        |
 | [X-Air](https://zutizi.com/x-air)           | 31 | 150G 配置托管, 倍率   |
 | [taishan](https://zutizi.com/taishan)       | 13 | 128G 可按量        |
