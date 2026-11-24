@@ -15,16 +15,16 @@
 支持 匿名邮箱/USDT 不意味着不被追踪，机场主仍然可以根据 IP 特性行为关联到你。
 | 名称                                         | 均月费      | 备注                     |
 |--------------------------------------------|---:|:------------------------|
-| [猫熊网络](https://zutizi.com/maoxiong)         | 25 | 200G 限制4设备, 订阅记录, 原生, 家宽         |
-| [歪兔YToo](https://zutizi.com/y-too)          | 36 | 200G 购买时注册, 限个人/团队, 支持U          |
-| [IPLC.VIP](https://zutizi.com/iplc)         | 40 | 200G 购买时注册, 仅年付, 限制4设备           |
-| [忍者云(限老用户)](https://zutizi.com/renzhe)      | 39 | 100G 自定义邮箱, 限制5设备, 家宽            |
-| [MESL Cloud](https://zutizi.com/meslcloud)  | 24 | 100G 限制5设备/团队, 可定制客户端            |
-| [花云](https://zutizi.com/huayun)             | 39 | 150G 购买时注册, 限制本人, 支持U            |
-| [饿饭CC云](https://zutizi.com/efanapi)         | 30 | 100G 限制3设备, 定制客户端, 季付起, 支持U, 可按量 |
-| [SS-ID](https://zutizi.com/ss-id)           | 20 | 100G 限制5设备, 可定制客户端               |
-| [xlinkworld](https://zutizi.com/xlinkworld) | 20 | 100G 仅限邀请且购买时注册, 限个人3设备/团队       |
-| [xipCloud](https://zutizi.com/xipcloud)     | 33 | 100G 购买时注册, 不限设备, 仅年付            |
+| [xlinkworld](https://zutizi.com/xlinkworld) | 20 | 100G 仅限邀请且购买时注册, 定制客户端, 限个人3设备/团队 |
+| [IPLC.VIP](https://zutizi.com/iplc)         | 40 | 200G 购买时注册, 仅年付, 限制4设备            |
+| [忍者云(限老用户)](https://zutizi.com/renzhe)      | 39 | 100G 自定义邮箱, 限制5设备, 家宽             |
+| [饿饭CC云](https://zutizi.com/efanapi)         | 30 | 100G 限制3设备, 定制客户端, 季付起, 支持U, 可按量  |
+| [花云](https://zutizi.com/huayun)             | 39 | 150G 购买时注册, 限制本人, 支持U             |
+| [xipCloud](https://zutizi.com/xipcloud)     | 33 | 100G 购买时注册, 不限设备, 仅年付             |
+| [歪兔YToo](https://zutizi.com/y-too)          | 36 | 200G 购买时注册, 限个人/团队, 支持U           |
+| [MESL Cloud](https://zutizi.com/meslcloud)  | 24 | 100G 限制5设备/团队, 可定制客户端             |
+| [SS-ID](https://zutizi.com/ss-id)           | 20 | 100G 限制5设备, 可定制客户端                |
+| [猫熊网络](https://zutizi.com/maoxiong)         | 25 | 200G 限制4设备, 订阅记录, 原生, 家宽          |
 
 ## 2. 专线
 
