@@ -103,7 +103,6 @@
 |--------------------------------------------|---:|:------------------------|
 | [赔钱机场](https://zutizi.com/pqjc)        | 2  | 100G 限制10设备, 可按量                   |
 | [一分机场](https://zutizi.com/yfjc)        | 2  | 100G 限制10设备, 可按量                   |
-| [socloud](https://zutizi.com/socloud)  | 30 | 100G 限制4设备, 订阅记录, 可定制客户端           |
 | [云海互联](https://zutizi.com/oceancloud)  | 20 | 200G 限制3-5设备, Emby, 可按量            |
 | [奇异云NCloud](https://zutizi.com/ncloud) | 10 | 1024G 限制3IP                        |
 | [7速云](https://zutizi.com/7sucloud)     | 20 | 200G 限制5设备(限个人), 可按量               |
@@ -115,6 +114,7 @@
 | [贝贝云](https://zutizi.com/beibei)       | 33 | 200G 限5设备(限个人), 支持UDP(非游戏), 可定制客户端 |
 | [奈思云](https://zutizi.com/naisii)       | 25 | 120G 限制5设备, esim, 可定制客户端           |
 | [CitrusLab](https://zutizi.com/cotota) | 12 | 80G 限制3设备, 定制客户端, 免流混淆, Emby       |
+| [socloud](https://zutizi.com/socloud)  | 30 | 100G 限制4设备, 订阅记录, 可定制客户端           |
 
 ## 邀请码
 
